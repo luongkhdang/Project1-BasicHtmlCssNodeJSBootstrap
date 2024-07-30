@@ -1,6 +1,6 @@
 # SaaS basic html+css website
 
-> This project is for me to review the fundamental of HTML+CSS..
+> This project is for me to review the fundamental of HTML+CSS.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
@@ -20,7 +20,9 @@ Demo site: https://project01-basichtml.netlify.app/
 
 ## Installation
 
-sample README.md`
+Host locally, then run index.html using Chrome or Edge browser.
+
+Demo site: https://project01-basichtml.netlify.app/
 
 ## Usage example
 
